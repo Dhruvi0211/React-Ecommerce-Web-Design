@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Ecommerce-Web-Design/static/css/main.1b897f87.css",
+    "main.js": "/React-Ecommerce-Web-Design/static/js/main.1dcd1edc.js",
+    "static/media/compare1.png": "/React-Ecommerce-Web-Design/static/media/compare1.972a3e996eff0f50e640.png",
+    "static/media/compare2.png": "/React-Ecommerce-Web-Design/static/media/compare2.906c545a8776c7cdf6b0.png",
+    "static/media/recommend1.jpg": "/React-Ecommerce-Web-Design/static/media/recommend1.5bd81bcf812955b151da.jpg",
+    "static/media/recommend2.jpg": "/React-Ecommerce-Web-Design/static/media/recommend2.57503139a740387ee10a.jpg",
+    "static/media/home.png": "/React-Ecommerce-Web-Design/static/media/home.629de4aa7e8ce767acf4.png",
+    "static/media/recommend4.jpg": "/React-Ecommerce-Web-Design/static/media/recommend4.f83f5f8e43ff53c8e31c.jpg",
+    "static/media/service1.png": "/React-Ecommerce-Web-Design/static/media/service1.ef943db3db7e7b40efdc.png",
+    "static/media/choose.png": "/React-Ecommerce-Web-Design/static/media/choose.c107f6a3f0a3a62d88c4.png",
+    "static/media/promo.png": "/React-Ecommerce-Web-Design/static/media/promo.3f211a9c7969f112a2cb.png",
+    "static/media/recommend3.jpeg": "/React-Ecommerce-Web-Design/static/media/recommend3.98616ba71d6aa6d52e43.jpeg",
+    "static/media/service4.png": "/React-Ecommerce-Web-Design/static/media/service4.1a1de13d00a71dbeddc1.png",
+    "static/media/service2.png": "/React-Ecommerce-Web-Design/static/media/service2.41b64b1be02a7bdb33a5.png",
+    "static/media/service3.png": "/React-Ecommerce-Web-Design/static/media/service3.dafd497d2b067714b70b.png",
+    "index.html": "/React-Ecommerce-Web-Design/index.html",
+    "main.1b897f87.css.map": "/React-Ecommerce-Web-Design/static/css/main.1b897f87.css.map",
+    "main.1dcd1edc.js.map": "/React-Ecommerce-Web-Design/static/js/main.1dcd1edc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b897f87.css",
+    "static/js/main.1dcd1edc.js"
+  ]
+}
