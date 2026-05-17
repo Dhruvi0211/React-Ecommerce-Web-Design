@@ -1,8 +1,5 @@
 # Responsive Ecommerce Website Built with React with Dark / Light Mode Toggle.
 
-## [Watch it on youtube](https://youtu.be/47Uqypjo7_c)
+The Responsive React Website has many sections with responsive Navbar including some awesome hover effects and transitions. Also Scroll Reveal library has been used for the animations. For the Icons React Icons library has been used. This website also has the dark mode and light mode toggle.
 
-Don't forget to join the channel for more videos like this.
-[Kishan Sheth](https://www.youtube.com/c/kishansheth21?sub_confirmation=1)
-
-Support me with a [coffee](https://www.buymeacoffee.com/koolkishansheth)
+Technology Used: React JS, HTML, CSS, JavaScript
