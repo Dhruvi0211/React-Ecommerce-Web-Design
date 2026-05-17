@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-website",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://Dhruvi0211.github.io/React-Ecommerce-Web-Design",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
@@ -15,9 +15,14 @@
     "scrollreveal": "^4.0.9",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
